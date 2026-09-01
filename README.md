@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/samuelhe52?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/samuelhe52?tab=repositories&sort=stargazers)
 
 - 🍎 Swift developer building native apps for Apple platforms
-- 🔬 Exploring ML research (Post-Training / Agent RL / RecSys)
+- 🔬 Exploring ML research (Post-Training / Agentic RL / RecSys)
 - 📍 CS undergraduate at UESTC, Chengdu
 - 🍿 Anime enthusiast
 
