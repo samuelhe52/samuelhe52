@@ -16,4 +16,4 @@
 
 ### 📬 Find me
 
-[Outlook](mailto:samuelhe52@outlook.com) · [Gmail](mailto:samuelhe864@gmail.com) · [X](https://x.com/SamuelHe89) · [Blog](https://blog.konakona52.com)
+[Outlook](mailto:samuelhe52@outlook.com) · [Gmail](mailto:samuelhe864@gmail.com) · [X](https://x.com/SamuelHe89) · [Blog](https://blog.konakona.dev)
