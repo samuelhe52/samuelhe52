@@ -12,7 +12,8 @@
 
 - [Teleport](https://github.com/samuelhe52/Teleport) — iOS location simulation for macOS
 - [AniShelf](https://github.com/samuelhe52/AniShelf) — your digital bookshelf for anime
-- [anishelf-cli](https://github.com/samuelhe52/anishelf-cli) — inspect AniShelf libraries from the terminal
+- [Kasumi](https://github.com/samuelhe52/Kasumi) — a native iOS Markdown reader and Swift rendering library
+- [Tidemark](https://github.com/samuelhe52/Tidemark) — a macOS companion for monitoring coding agent quotas
 - [codexctl](https://github.com/samuelhe52/codexctl) — drive Codex sessions from the command line, with a Claude Code subagent
 
 ### 📬 Find me
